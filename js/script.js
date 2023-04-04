@@ -11,7 +11,7 @@
 */
 function calculate() {
 // input
-  const pyramidlength = parseInt(document.getElementById('length-pyramid"').value)
+  const pyramidlength = parseInt(document.getElementById('length-pyramid').value)
   const pyramidwidth = parseInt(document.getElementById('width-pyramid').value)
   const pyramidheight = parseInt(document.getElementById('height-pyramid').value)
 
